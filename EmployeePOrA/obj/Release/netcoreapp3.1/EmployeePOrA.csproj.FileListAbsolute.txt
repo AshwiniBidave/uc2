@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\EmployeePorA\EmployeePOrA\EmployeePOrA\bin\Release\netcoreapp3.1\EmployeePOrA.exe
+C:\Users\Administrator\Desktop\EmployeePorA\EmployeePOrA\EmployeePOrA\bin\Release\netcoreapp3.1\EmployeePOrA.deps.json
+C:\Users\Administrator\Desktop\EmployeePorA\EmployeePOrA\EmployeePOrA\bin\Release\netcoreapp3.1\EmployeePOrA.runtimeconfig.json
+C:\Users\Administrator\Desktop\EmployeePorA\EmployeePOrA\EmployeePOrA\bin\Release\netcoreapp3.1\EmployeePOrA.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\EmployeePorA\EmployeePOrA\EmployeePOrA\bin\Release\netcoreapp3.1\EmployeePOrA.dll
+C:\Users\Administrator\Desktop\EmployeePorA\EmployeePOrA\EmployeePOrA\bin\Release\netcoreapp3.1\EmployeePOrA.pdb
+C:\Users\Administrator\Desktop\EmployeePorA\EmployeePOrA\EmployeePOrA\obj\Release\netcoreapp3.1\EmployeePOrA.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\EmployeePorA\EmployeePOrA\EmployeePOrA\obj\Release\netcoreapp3.1\EmployeePOrA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\EmployeePorA\EmployeePOrA\EmployeePOrA\obj\Release\netcoreapp3.1\EmployeePOrA.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\EmployeePorA\EmployeePOrA\EmployeePOrA\obj\Release\netcoreapp3.1\EmployeePOrA.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\EmployeePorA\EmployeePOrA\EmployeePOrA\obj\Release\netcoreapp3.1\EmployeePOrA.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\EmployeePorA\EmployeePOrA\EmployeePOrA\obj\Release\netcoreapp3.1\EmployeePOrA.dll
+C:\Users\Administrator\Desktop\EmployeePorA\EmployeePOrA\EmployeePOrA\obj\Release\netcoreapp3.1\EmployeePOrA.pdb
+C:\Users\Administrator\Desktop\EmployeePorA\EmployeePOrA\EmployeePOrA\obj\Release\netcoreapp3.1\EmployeePOrA.genruntimeconfig.cache
